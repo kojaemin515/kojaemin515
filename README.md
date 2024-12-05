@@ -10,6 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/BLENDER-%23E87D0D?logo=blender&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ECLIPSE-%232C2255?logo=eclipseide&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OA-gray)
 
 
 
